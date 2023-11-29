@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.2](https://github.com/mdn/interactive-examples/compare/v2.3.1...v2.3.2) (2023-11-29)
+
+
+### Bug Fixes
+
+* **css:** improve contrast of margin-block ([#2666](https://github.com/mdn/interactive-examples/issues/2666)) ([0df7a29](https://github.com/mdn/interactive-examples/commit/0df7a296e422a4b9006fcfb3d0de383fb87943c8))
+
 ## [2.3.1](https://github.com/mdn/interactive-examples/compare/v2.3.0...v2.3.1) (2023-11-13)
 
 
